@@ -8,7 +8,7 @@ With more than a decade of experience as a graphic designer. In November 2022, I
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,sass,tailwind,git)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,sass,tailwind,git)](https://skillicons.dev)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps)](https://skillicons.dev)
 
 
 ### Socials
