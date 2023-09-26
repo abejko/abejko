@@ -8,7 +8,7 @@ With more than a decade of experience as a graphic designer. In November 2022, I
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,sass,tailwind,git&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,sass,tailwind,git&perline=3)](https://skillicons.dev)
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
