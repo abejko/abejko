@@ -4,7 +4,6 @@
 
 With more than a decade of experience as a graphic designer. In November 2022, I made the decision to transition to web development. This transition aligns with my goal of expanding my skill set and exploring new opportunities within the dynamic field of technology. I firmly believe in persistent learning, guiding me through the challenges of this dynamic field.
 
-- 🖥️ I’m currently looking for a new job opportunity
 - ✉ You can reach me via andi.bejko@gmail.com
 
 ### Skills
