@@ -7,7 +7,7 @@ With more than a decade of experience as a graphic designer. In November 2022, I
 - 🖥️ I’m currently looking for a new job opportunity
 - ✉ You can reach me via andi.bejko@gmail.com
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
@@ -20,11 +20,10 @@ With more than a decade of experience as a graphic designer. In November 2022, I
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
 
-### 📱 Socials
+### Socials
 
 <p align="left"> 
-    <a href="https://github.com/abejko" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>
-    <a href="https://www.linkedin.com/in/andibejko/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+  <a href="https://www.linkedin.com/in/andibejko/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
 <details> 
