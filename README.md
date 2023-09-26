@@ -1,4 +1,4 @@
-# Hello i'm Andi.
+# Hello, I'm Andi.
 
 ## Front-end Developer and Designer
 
@@ -7,7 +7,7 @@ With more than a decade of experience as a graphic designer. In November 2022, I
 - 🖥️ I’m currently looking for a new job opportunity
 - ✉ You can reach me via andi.bejko@gmail.com
 
-### Tech Stack
+### Skills
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
@@ -26,16 +26,3 @@ With more than a decade of experience as a graphic designer. In November 2022, I
   <a href="https://www.linkedin.com/in/andibejko/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
-<details> 
-  <summary><b>📊 My Github Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/abejko/github-readme-stats"><img alt="Andi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abejko&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abejko&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-![](https://komarev.com/ghpvc/?username=abejko&color=blue&label=Profile+Views)
