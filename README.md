@@ -17,7 +17,6 @@ With more than a decade of experience as a graphic designer. In November 2022, I
     <a href="https://getbootstrap.com" target="_blank"> <img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs" /> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
     <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
-    <a href="https://adobexdplatform.com/" target="_blank"> <img src="https://icons8.com/icon/4VVL78edhbW9/adobe-xd.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
 
