@@ -1,4 +1,4 @@
-# Hellp i'm Andi.
+# Hello i'm Andi.
 
 ## Front-end Developer
 
